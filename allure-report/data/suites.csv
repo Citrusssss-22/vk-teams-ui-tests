@@ -1,0 +1,2 @@
+"DESCRIPTION","DURATION IN MS","NAME","PARENT SUITE","START TIME","STATUS","STOP TIME","SUB SUITE","SUITE","TEST CLASS","TEST METHOD"
+"","30040","Гость может войти в звонок","","Tue Jun 24 20:12:17 GMT+03:00 2025","broken","Tue Jun 24 20:12:47 GMT+03:00 2025","","guest-login.spec.ts","",""
