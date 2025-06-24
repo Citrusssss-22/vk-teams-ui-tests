@@ -1,0 +1,15 @@
+{
+  "name": "vk-teams-ui-tests",
+  "version": "1.0.0",
+  "description": "UI тесты гостевого входа в VK Teams",
+  "scripts": {
+    "test": "npx playwright test",
+    "allure:generate": "allure generate allure-results --clean -o allure-report",
+    "allure:open": "allure open allure-report"
+  },
+  "devDependencies": {
+    "@playwright/test": "^1.51.0",
+    "allure-playwright": "^2.0.0",
+    "typescript": "^5.2.2"
+  }
+}
